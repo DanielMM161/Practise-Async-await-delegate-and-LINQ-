@@ -1,0 +1,15 @@
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\bin\Debug\net6.0\CountryAssignment.exe
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\bin\Debug\net6.0\CountryAssignment.deps.json
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\bin\Debug\net6.0\CountryAssignment.runtimeconfig.json
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\bin\Debug\net6.0\CountryAssignment.dll
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\bin\Debug\net6.0\CountryAssignment.pdb
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\obj\Debug\net6.0\CountryAssignment.csproj.AssemblyReference.cache
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\obj\Debug\net6.0\CountryAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\obj\Debug\net6.0\CountryAssignment.AssemblyInfoInputs.cache
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\obj\Debug\net6.0\CountryAssignment.AssemblyInfo.cs
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\obj\Debug\net6.0\CountryAssignment.csproj.CoreCompileInputs.cache
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\obj\Debug\net6.0\CountryAssignment.dll
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\obj\Debug\net6.0\refint\CountryAssignment.dll
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\obj\Debug\net6.0\CountryAssignment.pdb
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\obj\Debug\net6.0\CountryAssignment.genruntimeconfig.cache
+D:\Documents\Programacion\Integrify\dotnet\CountryAssignment\obj\Debug\net6.0\ref\CountryAssignment.dll
